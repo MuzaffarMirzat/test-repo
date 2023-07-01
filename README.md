@@ -1,10 +1,14 @@
 hello Anas
 hello class
-hello everyone
-I just need some coffee.
 
+hello everyone
 Coffee 
 happy first day of Summer
 1st of July!
-happy 4th of July
 
+this is shafi code
+lets practice 
+hope i can marge to main
+this is my branch
+hello can you see my message "Rita"
+what is new today
