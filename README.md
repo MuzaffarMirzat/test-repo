@@ -1,5 +1,11 @@
 hello Anas
 hello class
+
+hello everyone
+Coffee 
+happy first day of Summer
+1st of July!
+
 this is shafi code
 lets practice 
 hope i can marge to main
